@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+
+.navbar a{
+  text-decoration: none;
+  transition: all .5s;
+}
+
+.navbar a:hover{
+color: red;
+}
+.complain_top{
+  margin-top: 1rem;
+}
